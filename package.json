@@ -169,7 +169,7 @@
     "stylelint-config-standard": "^18.2.0",
     "three": "0.103",
     "toastr": "^2.1.4",
-    "uglify-js": "^3.5.3",
+    "uglify-js": "^3.5.7",
     "url-loader": "^1.1.2",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
